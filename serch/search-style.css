@@ -1,0 +1,30 @@
+
+
+.hm-slider{max-height: 400px;}
+.carousel-control-next, .carousel-control-prev{width: 9.5%;}
+.search-area{
+	background-color: rgba(2, 80, 123, 0.47);padding: 15px 0 28px 0;border-radius: 5px;
+	position: absolute;right: 0;bottom: 115px;left: 0;z-index: 16;display: ms-flexbox;display: flex;ms-flex-pack:center;justify-content: center;padding-left: 0;margin-right: 10%;margin-left: 10%;
+}
+
+
+/* === Homepage: Search Form Area === */
+.slide .search-area .search-row{background-color:#f99d1e;padding:5px;margin-left:auto;margin-right:auto;max-width: 950px;}
+.slide .search-area .intro-title, .slide .search-area p{color: #fff}
+.slide .search-area .intro-title {font-family:  Open Sans Condensed,Helvetica Neue,sans-serif;
+	text-transform: uppercase;text-align: center;
+	font-weight: 700;font-size: 40px;
+}
+.slide .search-area p{font-size: 18px}
+.skin-blue .slide .search-area .search-row { background-color: #f99d1e; }
+.skin-blue .slide button.btn-search {background-color: #f99d1e;border-color: #f99d1e;}
+.skin-blue .slide button.btn-search { color: #ffffff; }
+
+
+/*controller*/
+.prev-next{height: 45px;width: 45px; background-color: #859aba;padding-top: 12px;border-radius:3px;box-shadow:0 0 3px 0px black;}
+
+
+
+
+
